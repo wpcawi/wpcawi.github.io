@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 158.35 158.37">
+  <defs>
+    <style>
+      .a {
+        fill: #e6e6e6;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <title>Artboard 1</title>
+  <path class="a" d="M146.18,12.2a41.76,41.76,0,0,0-59,0l-75,75a41.71,41.71,0,0,0,59,59l75-75a41.82,41.82,0,0,0,0-59Zm-8.48,50.51L97.31,103.08l-42-42L95.67,20.68a29.71,29.71,0,0,1,42,42Z"/>
+</svg>

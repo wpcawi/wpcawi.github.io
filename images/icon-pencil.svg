@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 75.84">
+  <defs>
+    <style>
+      .a {
+        fill: #e6e6e5;
+      }
+    </style>
+  </defs>
+  <title>Artboard 1</title>
+  <rect class="a" x="0.54" y="7.73" width="27.36" height="16.45" transform="translate(-6.85 19.57) rotate(-58)"/>
+  <rect class="a" x="45.38" y="15.72" width="6.29" height="67.2" transform="matrix(0.53, -0.85, 0.85, 0.53, -19.01, 64.34)"/>
+  <rect class="a" x="56.05" y="-1.36" width="6.29" height="67.2" transform="translate(0.48 65.36) rotate(-58)"/>
+  <rect class="a" x="50.58" y="7.39" width="6.29" height="67.2" transform="translate(-9.51 64.83) rotate(-58)"/>
+  <polygon class="a" points="79.92 72.6 110 75.84 93.9 50.23 79.92 72.6"/>
+</svg>
